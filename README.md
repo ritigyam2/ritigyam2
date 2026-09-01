@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ritigya</h1>
-<h3 align="center">A passionate Software Engineer in the making from India</h3>
+<h3 align="center">A passionate Software Engineer in the making.</h3>
 
 <p align="center">
   <a href="https://github.com/ritigyam2">
