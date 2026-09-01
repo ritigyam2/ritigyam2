@@ -11,7 +11,6 @@
 -  Building projects that solve real-world problems.
 -  Always open to collaborating on open-source projects.
 -  How to reach me: [LinkedIn](#) *www.linkedin.com/in/ritigya-mishra-025457302*
--  Fun fact: I love participating in hackathons like SIH!
 
 ### 🛠 Languages and Tools:
 <p align="left"> 
