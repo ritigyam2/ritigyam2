@@ -14,89 +14,151 @@ Building strong foundations in **Data Structures & Algorithms, Machine Learning,
 
 ---
 
-## About Me
+## About
 
-I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**. I use GitHub to document what I build, what I learn, and my progress toward becoming a strong software engineer.
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, with a growing focus on software engineering and problem solving.
+
+I use GitHub as an engineering portfolio: repositories are organized around **what I build, what I learn, and how my technical depth is progressing**.
 
 - 🎓 B.Tech CSE (AI/ML) — UPES, Dehradun
-- 💻 Focused on **C++, Python, DSA, ML, and CS fundamentals**
-- 🧠 Learning by building projects and solving problems consistently
-- 🚀 Interested in **Software Engineering and Machine Learning Engineering**
-- 🌱 Currently strengthening **DSA, ML, OS, Computer Networks, and system-level fundamentals**
+- 💻 Primary languages: **C++, Python, C**
+- 🧠 Core focus: **DSA, Machine Learning, CS fundamentals, software engineering**
+- 🚀 Career direction: **Software Engineering / Machine Learning Engineering**
+- 📈 Current priority: building fewer, stronger, better-documented repositories
 
 ---
 
-## Current Focus
+## Engineering Focus
 
-| Area | Focus |
+| Area | Current Focus |
 |---|---|
-| **DSA** | Problem solving, patterns, complexity, interview preparation |
-| **Machine Learning** | Data preprocessing, regression, classification, evaluation, projects |
-| **CS Fundamentals** | Operating Systems, Computer Networks, Computer Architecture, DBMS |
-| **Development** | Git/GitHub, APIs, deployment, clean project structure |
-| **Engineering** | Writing maintainable code, documentation, testing, and debugging |
+| **Data Structures & Algorithms** | C++17, problem solving, patterns, complexity, interview preparation |
+| **Machine Learning** | Preprocessing, regression, classification, evaluation, end-to-end projects |
+| **CS Fundamentals** | Operating Systems, Networks, Computer Architecture, databases and systems concepts |
+| **Software Engineering** | Clean code, Git workflows, APIs, testing, debugging, documentation |
+| **Development** | Project architecture, deployment, tooling and engineering practices |
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-`C` `C++` `Python`
+`C` `C++17` `Python`
 
-**Machine Learning / Data**  
+**Data & ML**  
 `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Jupyter`
 
-**Engineering Tools**  
+**Engineering**  
 `Git` `GitHub` `Linux` `VS Code`
 
-**Currently Exploring**  
-`FastAPI` `MLOps` `Deep Learning` `System Design`
+**Exploring**  
+`FastAPI` `Deep Learning` `MLOps` `System Design`
 
 ---
 
-## Featured Work
+# Repository Portfolio
 
-### 🐋 ORCA
-AI-powered solution developed for **Smart India Hackathon 2026**.
+My repositories are intentionally grouped by **engineering signal** rather than simply by chronology.
 
-### 🤖 Machine Learning Projects
-End-to-end ML work covering **data preprocessing → feature engineering → model training → evaluation → deployment**.
+## ⭐ Featured Engineering Work
 
-### ⚡ DSA Interview Preparation
-A structured C++ repository following **Striver's A2Z DSA roadmap**, with interview-oriented solutions and complexity analysis.
+### 🐋 [ORCA](https://github.com/ritigyam2/ORCA)
+**Smart India Hackathon 2026 project** and intended flagship engineering repository.
 
-### 📚 100 Days of Code
-A public record of consistent programming practice and learning progress.
+> **Priority:** High — this is the repository I want to develop into a strong end-to-end engineering project.
+
+**Target standard:** clear problem statement → architecture → implementation → testing → documentation → demo/deployment.
 
 ---
 
-## Learning Roadmap
+### ⚡ [DSA Interview Preparation](https://github.com/ritigyam2/dsa-interview-prep)
+Structured **Data Structures & Algorithms** preparation using C++17 and an interview-oriented topic roadmap.
+
+> **Priority:** High — primary evidence of algorithmic problem-solving and technical interview preparation.
+
+**Roadmap:** Arrays → Binary Search → Strings → Linked Lists → Trees → Graphs → Greedy → Dynamic Programming → Advanced Topics.
+
+---
+
+## 🧪 Learning & Development Archive
+
+### 📚 [100 Days of Code](https://github.com/ritigyam2/100DAYS_OF_CODE)
+An archive of early programming practice, coursework, experiments, and project work.
+
+> **Portfolio role:** Learning history. Useful for showing progression, but intentionally not positioned as a flagship engineering project.
+
+---
+
+### 💻 [C Programming](https://github.com/ritigyam2/C-Programming)
+Archive of foundational C programming work including coursework, laboratory exercises, problem solving, and an early project.
+
+> **Portfolio role:** Fundamentals archive documenting the foundation behind later C++ and systems-oriented work.
+
+---
+
+## 🗂️ Repository Strategy
+
+| Repository | Role | Priority |
+|---|---|---:|
+| **ORCA** | Flagship engineering project | ⭐⭐⭐⭐⭐ |
+| **dsa-interview-prep** | DSA / interview preparation | ⭐⭐⭐⭐⭐ |
+| **100DAYS_OF_CODE** | Learning archive | ⭐⭐⭐ |
+| **C-Programming** | Programming fundamentals archive | ⭐⭐ |
+
+The goal is **quality over repository count**. New repositories will be added only when they demonstrate a meaningful skill, project, or engineering capability.
+
+---
+
+## What I'm Building Toward
 
 ```text
-C++ + DSA
-    ↓
-Strong CS Fundamentals
-    ↓
-Machine Learning
-    ↓
-ML Projects + Deployment
-    ↓
+C / C++ Fundamentals
+        ↓
+C++17 + Data Structures & Algorithms
+        ↓
+Strong Computer Science Fundamentals
+        ↓
+Machine Learning Foundations
+        ↓
+End-to-End ML Projects
+        ↓
+APIs + Deployment + MLOps
+        ↓
 Software Engineering Practices
-    ↓
+        ↓
 Internship / SWE Preparation
 ```
 
 ---
 
-## GitHub Philosophy
+## Engineering Principles
 
-> **Learn → Build → Document → Reflect → Repeat.**
+- **Understand before implementing.**
+- **Prefer fundamentals over shortcuts.**
+- **Write code another engineer can read.**
+- **Document decisions, not just results.**
+- **Use meaningful commits and structured repositories.**
+- **Build projects that demonstrate actual engineering ability.**
+- **Continuously refactor older work as standards improve.**
 
-I prefer understanding fundamentals deeply, building projects that demonstrate those fundamentals, and keeping my repositories organized enough that another engineer can understand them quickly.
+> **Learn → Build → Test → Document → Reflect → Improve.**
 
 ---
 
-## GitHub Stats
+## Current Learning Roadmap
+
+- [ ] Strengthen C++17 and STL
+- [ ] Complete core DSA patterns and interview preparation
+- [ ] Build strong CS fundamentals
+- [ ] Complete ML foundations and mathematics
+- [ ] Build and deploy end-to-end ML projects
+- [ ] Learn backend/API development for ML systems
+- [ ] Develop production-oriented engineering practices
+- [ ] Prepare systematically for software engineering internships
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -112,8 +174,6 @@ I prefer understanding fundamentals deeply, building projects that demonstrate t
 - **GitHub:** [@ritigyam2](https://github.com/ritigyam2)
 - **LinkedIn:** [Ritigya Mishra](https://www.linkedin.com/in/ritigya-mishra-025457302/)
 - **Email:** [ritigyam2@gmail.com](mailto:ritigyam2@gmail.com)
-
----
 
 <div align="center">
 
