@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritigya</h1>
+<h1 align="center">Hi , I'm Ritigya</h1>
 <h3 align="center">A passionate Software Engineer in the making from India</h3>
 
 <p align="center">
@@ -7,11 +7,11 @@
   </a>
 </p>
 
-- 🎓 Currently focused on **Data Structures and Algorithms (DSA)** and competitive programming.
-- 💻 Building projects that solve real-world problems.
-- 🤝 Always open to collaborating on open-source projects.
-- 📫 How to reach me: [LinkedIn](#) *(Add your link here)*
-- ⚡ Fun fact: I love participating in hackathons like SIH!
+-  Currently focused on **Data Structures and Algorithms (DSA)** and competitive programming.
+-  Building projects that solve real-world problems.
+-  Always open to collaborating on open-source projects.
+-  How to reach me: [LinkedIn](#) *www.linkedin.com/in/ritigya-mishra-025457302*
+-  Fun fact: I love participating in hackathons like SIH!
 
 ### 🛠 Languages and Tools:
 <p align="left"> 
