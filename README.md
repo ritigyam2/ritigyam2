@@ -88,14 +88,6 @@ Current areas of focus:
 4. Contribute to open source and collaborate on technical projects.
 5. Prepare for software engineering and machine learning internship opportunities.
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ritigyam2&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritigyam2&layout=compact&hide_border=true" height="165" />
-
-</div>
 
 ## Connect
 
