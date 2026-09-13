@@ -1,78 +1,94 @@
 <div align="center">
 
-# Hi, I'm Ritigya Mishra 
+# Ritigya Mishra
 
-### CSE (AI/ML) Undergraduate · Software Engineering · Machine Learning · DSA
+### Computer Science & Engineering (AI/ML) Undergraduate | Software Engineering | Machine Learning | DSA
 
-[![GitHub](https://img.shields.io/badge/GitHub-ritigyam2-181717?style=flat&logo=github)](https://github.com/ritigyam2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritigya%20Mishra-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritigya-mishra-025457302/)
+[GitHub](https://github.com/ritigyam2) · [LinkedIn](https://www.linkedin.com/in/ritigya-mishra-025457302/)
 
 </div>
 
 ---
 
-##  About Me
+## About
 
-I'm a Computer Science & Engineering (AI/ML) undergraduate at **UPES Dehradun**, focused on building strong software engineering fundamentals and practical machine learning systems.
+I am a Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at UPES, Dehradun. I am focused on developing strong computer science fundamentals and building practical software and machine learning systems.
 
--  B.Tech CSE (AI/ML), UPES — 2025–2029
--  Currently strengthening **Data Structures & Algorithms, C++, Python, and Machine Learning**
--  Interested in **Machine Learning, intelligent systems, and backend/software engineering**
--  I learn by building: from algorithmic problem solving to end-to-end ML projects
-- 🚀 Actively preparing for **software engineering and ML internships**
-- 🤝 Open to meaningful technical collaborations and open-source opportunities
+My current focus is on:
 
----
+- Data Structures and Algorithms with C++
+- Machine Learning and applied AI
+- Python-based data and ML workflows
+- Core computer science fundamentals
+- Building, documenting, and deploying end-to-end projects
+- Open-source contribution and collaborative software development
 
-## 🧰 Technical Skills
+I learn through a build-first approach: understand the fundamentals, implement them, evaluate the results, and iterate.
+
+## Education
+
+**B.Tech. Computer Science & Engineering (AI/ML)**  
+UPES, Dehradun | 2025–2029
+
+## Technical Skills
 
 ### Languages
-`C++` `Python` `C` `JavaScript`
+
+`C++` `Python` `C` `JavaScript` `SQL`
 
 ### Computer Science
-`Data Structures & Algorithms` `Object-Oriented Programming` `Problem Solving` `Git & GitHub`
+
+`Data Structures & Algorithms` `Object-Oriented Programming` `Problem Solving` `Git` `GitHub`
 
 ### Machine Learning & Data
+
 `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Regression` `Classification` `Clustering` `PCA` `Data Preprocessing`
 
 ### Currently Learning
-`Advanced DSA` `Machine Learning` `SQL` `Operating Systems` `Computer Networks` `System Design Fundamentals`
 
----
+`Advanced DSA` `Machine Learning` `SQL` `Operating Systems` `Computer Networks` `Computer Organization & Architecture` `System Design Fundamentals`
 
-## 🚀 Featured Projects
+## Selected Projects
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [Retail Demand Prediction](https://github.com/ritigyam2/Retail-Demand-Prediction) | Predictive ML workflow for retail demand | Python · Pandas · Scikit-learn |
-| [Wholesale Insight Analytics](https://github.com/ritigyam2/Wholesale-Insight-Analytics) | Customer segmentation using K-Means + PCA | Python · Scikit-learn · Pandas |
-| [DSA Interview Prep](https://github.com/ritigyam2/dsa-interview-prep) | Structured interview-focused algorithm practice | C++ · DSA |
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [Retail Demand Prediction](https://github.com/ritigyam2/Retail-Demand-Prediction) | Machine learning workflow for retail demand prediction | Python · Pandas · Scikit-learn |
+| [Wholesale Insight Analytics](https://github.com/ritigyam2/Wholesale-Insight-Analytics) | Customer segmentation using K-Means and PCA | Python · Pandas · Scikit-learn |
+| [DSA Interview Prep](https://github.com/ritigyam2/dsa-interview-prep) | Structured practice focused on algorithmic patterns and interview problem solving | C++ · DSA |
+| Movie Recommendation System | End-to-end content-based recommendation system using NLP, TF-IDF, and cosine similarity | Python · NLP · Scikit-learn |
 
-> More production-oriented ML projects are being built and documented as part of my learning roadmap.
+More projects are being developed with an emphasis on understanding the underlying concepts, writing maintainable code, and documenting technical decisions.
 
----
+## Problem Solving
 
-## 📚 Problem Solving
+I am building my DSA foundation around algorithmic patterns, complexity analysis, and independent problem solving.
 
-My DSA preparation is organized around **patterns, complexity analysis, and interview-style problem solving** rather than simply collecting solutions.
+Current areas of focus:
 
-**Focus areas:**
-- Arrays & Strings
-- Hashing & Two Pointers
+- Arrays and Strings
+- Hashing and Two Pointers
 - Binary Search
 - Linked Lists
-- Stacks & Queues
-- Trees & Graphs
-- Recursion & Backtracking
+- Stacks and Queues
+- Trees and Graphs
+- Recursion and Backtracking
 - Greedy Algorithms
 - Dynamic Programming
-- Time & Space Complexity
+- Time and Space Complexity
 
-→ [View my DSA Interview Prep](https://github.com/ritigyam2/dsa-interview-prep)
+[View DSA Interview Prep](https://github.com/ritigyam2/dsa-interview-prep)
 
----
+## Current Focus
 
-## 📈 GitHub Activity
+**2026–27**
+
+1. Strengthen DSA and core computer science fundamentals.
+2. Build deeper practical knowledge of machine learning.
+3. Develop and deploy end-to-end software and ML projects.
+4. Contribute to open source and collaborate on technical projects.
+5. Prepare for software engineering and machine learning internship opportunities.
+
+## GitHub Activity
 
 <div align="center">
 
@@ -81,29 +97,15 @@ My DSA preparation is organized around **patterns, complexity analysis, and inte
 
 </div>
 
----
+## Connect
 
-## 🎯 2026–27 Focus
-
-```text
-DSA & Problem Solving       █████████░  Building consistency
-Machine Learning             ████████░░  Building depth
-Software Engineering         ███████░░░  Strengthening fundamentals
-Projects & Deployment        ███████░░░  Building end-to-end systems
-Open Source                  ████░░░░░░  Getting started
-```
-
-My goal is simple: **build strong fundamentals, ship real projects, and become an exceptional software engineer.**
+- LinkedIn: [Ritigya Mishra](https://www.linkedin.com/in/ritigya-mishra-025457302/)
+- GitHub: [@ritigyam2](https://github.com/ritigyam2)
 
 ---
-
-## 📫 Connect
-
-- **LinkedIn:** [Ritigya Mishra](https://www.linkedin.com/in/ritigya-mishra-025457302/)
-- **GitHub:** [@ritigyam2](https://github.com/ritigyam2)
 
 <div align="center">
 
-### *Build. Learn. Solve. Repeat.* 🚀
+Build. Learn. Solve. Ship.
 
 </div>
