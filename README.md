@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ritigya Mishra 👋
+# Hi, I'm Ritigya Mishra 
 
 ### CSE (AI/ML) Undergraduate · Software Engineering · Machine Learning · DSA
 
@@ -11,14 +11,14 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I'm a Computer Science & Engineering (AI/ML) undergraduate at **UPES Dehradun**, focused on building strong software engineering fundamentals and practical machine learning systems.
 
-- 🎓 B.Tech CSE (AI/ML), UPES — 2025–2029
-- 🧠 Currently strengthening **Data Structures & Algorithms, C++, Python, and Machine Learning**
-- 🤖 Interested in **Machine Learning, intelligent systems, and backend/software engineering**
-- 🛠️ I learn by building: from algorithmic problem solving to end-to-end ML projects
+-  B.Tech CSE (AI/ML), UPES — 2025–2029
+-  Currently strengthening **Data Structures & Algorithms, C++, Python, and Machine Learning**
+-  Interested in **Machine Learning, intelligent systems, and backend/software engineering**
+-  I learn by building: from algorithmic problem solving to end-to-end ML projects
 - 🚀 Actively preparing for **software engineering and ML internships**
 - 🤝 Open to meaningful technical collaborations and open-source opportunities
 
