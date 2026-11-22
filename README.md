@@ -1,103 +1,46 @@
-<div align="center">
-
 # Ritigya Mishra
 
-### Computer Science & Engineering (AI/ML) Undergraduate | Software Engineering | Machine Learning | DSA
+Computer Science and Engineering undergraduate at UPES, Dehradun (2025–2029), with an AI and Machine Learning focus.
 
-[GitHub](https://github.com/ritigyam2) · [LinkedIn](https://www.linkedin.com/in/ritigya-mishra-025457302/)
-
-</div>
-
----
-
-## About
-
-I am a Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at UPES, Dehradun. I am focused on developing strong computer science fundamentals and building practical software and machine learning systems.
-
-My current focus is on:
-
-- Data Structures and Algorithms with C++
-- Machine Learning and applied AI
-- Python-based data and ML workflows
-- Core computer science fundamentals
-- Building, documenting, and deploying end-to-end projects
-- Open-source contribution and collaborative software development
-
-I learn through a build-first approach: understand the fundamentals, implement them, evaluate the results, and iterate.
-
-## Education
-
-**B.Tech. Computer Science & Engineering (AI/ML)**  
-UPES, Dehradun | 2025–2029
-
-## Technical Skills
-
-### Languages
-
-`C++` `Python` `C` `JavaScript` `SQL`
-
-### Computer Science
-
-`Data Structures & Algorithms` `Object-Oriented Programming` `Problem Solving` `Git` `GitHub`
-
-### Machine Learning & Data
-
-`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Regression` `Classification` `Clustering` `PCA` `Data Preprocessing`
-
-### Currently Learning
-
-`Advanced DSA` `Machine Learning` `SQL` `Operating Systems` `Computer Networks` `Computer Organization & Architecture` `System Design Fundamentals`
+I am interested in software engineering and applied machine learning. My repositories document projects and experiments involving algorithms, data-driven systems, and practical software development.
 
 ## Selected Projects
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [Retail Demand Prediction](https://github.com/ritigyam2/Retail-Demand-Prediction) | Machine learning workflow for retail demand prediction | Python · Pandas · Scikit-learn |
-| [Wholesale Insight Analytics](https://github.com/ritigyam2/Wholesale-Insight-Analytics) | Customer segmentation using K-Means and PCA | Python · Pandas · Scikit-learn |
-| [DSA Interview Prep](https://github.com/ritigyam2/dsa-interview-prep) | Structured practice focused on algorithmic patterns and interview problem solving | C++ · DSA |
-| Movie Recommendation System | End-to-end content-based recommendation system using NLP, TF-IDF, and cosine similarity | Python · NLP · Scikit-learn |
+### [DevTriage-Optimizer](https://github.com/ritigyam2/DevTriage-Optimizer)
+A C++17 command-line project for issue prioritisation, skill-based developer assignment, and capacity-constrained sprint planning. The implementation explores sorting, bipartite matching, dynamic programming, graph algorithms, and string matching.
 
-More projects are being developed with an emphasis on understanding the underlying concepts, writing maintainable code, and documenting technical decisions.
+### [LOWKEY](https://github.com/ritigyam2/lowkey)
+A music discovery prototype with two retrieval paths: acoustic similarity search using HNSW and text-query retrieval using embeddings with ChromaDB. The repository includes backend modules, verification scripts, and a GitHub Actions workflow.
 
-## Problem Solving
+### [GeoSlope-AI](https://github.com/ritigyam2/GeoSlope-AI-Geospatial-Landslide-Risk-Prediction-System)
+A team project exploring landslide-susceptibility classification for Himachal Pradesh using geospatial and environmental features. The repository includes model and data cards, model comparisons, and an interactive dashboard.
 
-I am building my DSA foundation around algorithmic patterns, complexity analysis, and independent problem solving.
+### [Behaviour-Based Digital Banking Fraud Detection](https://github.com/ritigyam2/behavioral-banking-fraud-detection)
+A machine-learning project that compares classification approaches for transaction risk assessment. It includes model notebooks and a dashboard with analytics, model views, and transaction review workflows.
 
-Current areas of focus:
+### [Retail Demand Prediction](https://github.com/ritigyam2/Retail-Demand-Prediction)
+A forecasting project using historical retail sales data. It covers exploratory analysis, time-based feature engineering, chronological train-test evaluation, and comparisons between regression and moving-average baselines.
 
-- Arrays and Strings
-- Hashing and Two Pointers
-- Binary Search
-- Linked Lists
-- Stacks and Queues
-- Trees and Graphs
-- Recursion and Backtracking
-- Greedy Algorithms
-- Dynamic Programming
-- Time and Space Complexity
+## Technical Interests
 
-[View DSA Interview Prep](https://github.com/ritigyam2/dsa-interview-prep)
+- Data structures and algorithmic problem solving
+- Applied machine learning: classification, regression, clustering, and feature engineering
+- Recommendation systems and vector retrieval
+- Building and documenting maintainable software projects
 
-## Current Focus
+## Technologies
 
-**2026–27**
+**Languages:** C++17, Python, JavaScript
 
-1. Strengthen DSA and core computer science fundamentals.
-2. Build deeper practical knowledge of machine learning.
-3. Develop and deploy end-to-end software and ML projects.
-4. Contribute to open source and collaborate on technical projects.
-5. Prepare for software engineering and machine learning internship opportunities.
+**Data and machine learning:** NumPy, pandas, scikit-learn, hnswlib, ChromaDB
 
+**Tools:** Git, GitHub, Jupyter Notebook, CMake
 
-## Connect
+## Education
 
-- LinkedIn: [Ritigya Mishra](https://www.linkedin.com/in/ritigya-mishra-025457302/)
-- GitHub: [@ritigyam2](https://github.com/ritigyam2)
+**B.Tech. in Computer Science and Engineering (AI/ML)**  
+UPES, Dehradun | 2025–2029
 
----
+## Contact
 
-<div align="center">
-
-Build. Learn. Solve. Ship.
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/ritigya-mishra-025457302/) · [GitHub](https://github.com/ritigyam2)
